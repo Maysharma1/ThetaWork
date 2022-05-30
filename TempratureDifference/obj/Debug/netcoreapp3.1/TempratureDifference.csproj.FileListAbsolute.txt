@@ -1,0 +1,39 @@
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.exe
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.deps.json
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.runtimeconfig.json
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.runtimeconfig.dev.json
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.dll
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.pdb
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.csprojAssemblyReference.cache
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.AssemblyInfoInputs.cache
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.AssemblyInfo.cs
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.csproj.CoreCompileInputs.cache
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.dll
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.pdb
+C:\Pankaj\Practice\TempratureDifference\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.genruntimeconfig.cache
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.exe
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.deps.json
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.runtimeconfig.json
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.runtimeconfig.dev.json
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.dll
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.pdb
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.csprojAssemblyReference.cache
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.AssemblyInfoInputs.cache
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.AssemblyInfo.cs
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.csproj.CoreCompileInputs.cache
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.dll
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.pdb
+C:\Users\Mayur\Desktop\Theta\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.genruntimeconfig.cache
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.exe
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.deps.json
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.runtimeconfig.json
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.runtimeconfig.dev.json
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.dll
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\bin\Debug\netcoreapp3.1\TempratureDifference.pdb
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.csprojAssemblyReference.cache
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.AssemblyInfoInputs.cache
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.AssemblyInfo.cs
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.csproj.CoreCompileInputs.cache
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.dll
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.pdb
+C:\Users\Mayur\Desktop\Theta work\TempratureDifference\obj\Debug\netcoreapp3.1\TempratureDifference.genruntimeconfig.cache
